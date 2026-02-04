@@ -7,5 +7,6 @@ public class DbConfig {
 
     public static final String USER = "root";
 
-    public static final String PASSWORD = "PASSWORD_DYALK";
+    public static final String PASSWORD = "azertyuiop";
 }
+
